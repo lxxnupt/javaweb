@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ly.sof:sof-spi:1.4.0.20170413">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ly/sof/sof-spi/1.4.0.20170413/sof-spi-1.4.0.20170413.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ly/sof/sof-spi/1.4.0.20170413/sof-spi-1.4.0.20170413-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ly/sof/sof-spi/1.4.0.20170413/sof-spi-1.4.0.20170413-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

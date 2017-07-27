@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ly.turbomq:turbomq-client:3.2.16">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ly/turbomq/turbomq-client/3.2.16/turbomq-client-3.2.16.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ly/turbomq/turbomq-client/3.2.16/turbomq-client-3.2.16-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ly/turbomq/turbomq-client/3.2.16/turbomq-client-3.2.16-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

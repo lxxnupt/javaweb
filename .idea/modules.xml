@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javawebtest.iml" filepath="$PROJECT_DIR$/javawebtest.iml" />
+      <module fileurl="file://$USER_HOME$/sample2/assembly/sample2-assembly.iml" filepath="$USER_HOME$/sample2/assembly/sample2-assembly.iml" />
+      <module fileurl="file://$USER_HOME$/sample2/app/biz/sample2-biz.iml" filepath="$USER_HOME$/sample2/app/biz/sample2-biz.iml" />
+      <module fileurl="file://$USER_HOME$/sample2/app/dal/sample2-dal.iml" filepath="$USER_HOME$/sample2/app/dal/sample2-dal.iml" />
+      <module fileurl="file://$USER_HOME$/sample2/app/facade/sample2-facade.iml" filepath="$USER_HOME$/sample2/app/facade/sample2-facade.iml" />
+      <module fileurl="file://$USER_HOME$/sample2/app/facade-impl/sample2-facade-impl.iml" filepath="$USER_HOME$/sample2/app/facade-impl/sample2-facade-impl.iml" />
+      <module fileurl="file://$USER_HOME$/sample2/app/integration/sample2-integration.iml" filepath="$USER_HOME$/sample2/app/integration/sample2-integration.iml" />
+      <module fileurl="file://$USER_HOME$/sample2/sample2-parent.iml" filepath="$USER_HOME$/sample2/sample2-parent.iml" />
+      <module fileurl="file://$USER_HOME$/sample2/app/test/sample2-test.iml" filepath="$USER_HOME$/sample2/app/test/sample2-test.iml" />
+      <module fileurl="file://$USER_HOME$/sample2/app/web/sample2-web.iml" filepath="$USER_HOME$/sample2/app/web/sample2-web.iml" />
+      <module fileurl="file://$USER_HOME$/sample2/webdocs/sample2-webdocs.iml" filepath="$USER_HOME$/sample2/webdocs/sample2-webdocs.iml" />
+    </modules>
+  </component>
+</project>
